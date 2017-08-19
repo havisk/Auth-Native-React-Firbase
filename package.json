@@ -8,6 +8,7 @@
 	},
 	"dependencies": {
 		"firebase": "^4.2.0",
+		"node-env-file": "^0.1.8",
 		"react": "16.0.0-alpha.12",
 		"react-native": "0.47.1"
 	},
